@@ -165,5 +165,5 @@ The project includes SQL queries for:
 
 ![Transactions](Dashboard/Transactions.png)
 
-![Risk & Sector Analysis](Dashboard/Risk&Sector.png)
+![Risk & Sector Analysis](Dashboard/Risk&Sector%20Analysis.png)
 ```
