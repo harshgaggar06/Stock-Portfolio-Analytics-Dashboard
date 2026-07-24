@@ -157,13 +157,13 @@ The project includes SQL queries for:
 
 # 📸 Dashboard Preview
 
-![Overview](Images/Overview.png)
+![Overview](Dashboard/Overview.png)
 
-![Portfolio](Images/Portfolio.png)
+![Portfolio](Dashboard/Portfolio.png)
 
-![Stocks](Images/Stocks.png)
+![Stocks](Dashboard/Stocks.png)
 
-![Transactions](Images/Transactions.png)
+![Transactions](Dashboard/Transactions.png)
 
-![Risk & Sector Analysis](Images/Risk%20Sector.png)
+![Risk & Sector Analysis](Dashboard/Risk%20Sector.png)
 ```
